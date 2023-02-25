@@ -8,6 +8,7 @@
     <link rel="icon" href="img/mD/ico/logo-color.ico">
 
     <link rel="stylesheet" href="css/indexStyles.css">
+    <script src="../controls/plugins/jquery-min-3.6.3.js"></script>
 </head>
 <body>
     
